@@ -6,3 +6,9 @@ The idea is to bring the greatest(everyone) minds on one single app with the wel
 
 **X** will start from Metal to user (OS to application)
 
+
+_________________
+**Inspiration**
+The Mess we are in by Joe Armstrong
+https://www.youtube.com/watch?v=lKXe3HUG2l4
+
