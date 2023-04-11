@@ -8,7 +8,11 @@ The idea is to bring the greatest(everyone) minds on one single app with the wel
 
 
 _________________
-**Inspiration**
+**Inspiration**:
+
 The Mess we are in by Joe Armstrong
 https://www.youtube.com/watch?v=lKXe3HUG2l4
+
+Insted of we having too many varieties of Apps, we reverse the process by having one and putting all the expertise in that.
+
 
