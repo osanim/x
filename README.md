@@ -16,3 +16,11 @@ https://www.youtube.com/watch?v=lKXe3HUG2l4
 Insted of we having too many varieties of Apps, we reverse the process by having one and putting all the expertise in that.
 
 
+_____________________
+**Architecture**
+
+OS - Micro Kernel based (https://en.wikipedia.org/wiki/Microkernel)
+Drivers - universal standard based drivers
+Application Layer - all applications should have same binary standards so as to run everywhere
+
+
