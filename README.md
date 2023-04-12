@@ -20,7 +20,9 @@ _____________________
 **Architecture**
 
 OS - Micro Kernel based (https://en.wikipedia.org/wiki/Microkernel)
+
 Drivers - universal standard based drivers
+
 Application Layer - all applications should have same binary standards so as to run everywhere
 
 
