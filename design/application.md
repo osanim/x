@@ -6,6 +6,7 @@
   
   <page>
     
-  </page>  
+  </page> 
+  <page path="/path_to_page" /> 
 </application>
 ````
