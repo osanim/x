@@ -1,5 +1,12 @@
-```html
-<application>
+````html
+<application splashscreen="" name="MyApp" version="" license="1.0.0">
+  <page initial="true by default">
+    
+  </page>
   
- </application>
-```
+  <page>
+    
+  </page>
+  
+</application>
+````
