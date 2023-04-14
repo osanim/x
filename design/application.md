@@ -6,7 +6,6 @@
   
   <page>
     
-  </page>
-  
+  </page>  
 </application>
 ````
