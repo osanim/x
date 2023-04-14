@@ -1,7 +1,7 @@
 # Components
 
-Accordion
-Alert
+* Accordion
+* Alert
 Array (ButtonGroup, InputGroup)
 Breadcrumb
 Button (button)
