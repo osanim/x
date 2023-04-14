@@ -1,0 +1,9 @@
+```html
+<application>
+  <page>
+    <Menu>
+      <Menuitem>File</Menuitem>
+      <Menuitem>Edit</Menuitem>
+    </Menu>
+  </page>
+</application>
