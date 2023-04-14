@@ -1,4 +1,4 @@
-```html=
+```html showLineNumbers
 # Accordion UI
 <Accordion>
   <AccordionItem>
