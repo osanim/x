@@ -6,6 +6,8 @@ The idea is to bring the greatest(everyone) minds on one single app with well pr
 
 **X** will start from Metal to user (OS to application)
 
+This is more like a Docker for UI
+
 
 _________________
 **Inspiration**:
