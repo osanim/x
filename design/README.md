@@ -1,4 +1,5 @@
 UXL - Universal Interface Language (is similar in concept to Mozilla's XUL)
+USS - Universal Styling Sheet
 
 This language is meant to be 
 
