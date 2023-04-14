@@ -1,6 +1,7 @@
 ````html
 <os type="harmony|windows|mac|android|ios" version="1.0.0">
-  <drivers="" />
+  <driver type="" version="" />
+  <driver type="" version="" />
   <application>
     
   </application>
